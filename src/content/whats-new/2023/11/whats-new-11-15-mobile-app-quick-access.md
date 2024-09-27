@@ -18,5 +18,5 @@ With quick actions and widgets on mobile, you get:
 
 **Next steps**
 
-* Check out our documentation for [quick actions](https://docs.newrelic.com/docs/mobile-apps/quick-actions/) and widgetes for [Android](https://docs.newrelic.com/docs/mobile-apps/android-widgets/) and [iOS](https://docs.newrelic.com/docs/mobile-apps/ios-widgets/)
+* Check out our documentation for [quick actions](https://docs.newrelic.com/docs/mobile-apps/quick-actions/) and widgets for [Android](https://docs.newrelic.com/docs/mobile-apps/android-widgets/) and [iOS](https://docs.newrelic.com/docs/mobile-apps/ios-widgets/)
 * Watch the [databyte video](https://youtu.be/qSprakQpUTM).
